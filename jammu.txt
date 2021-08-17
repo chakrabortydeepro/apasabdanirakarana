@@ -48,6 +48,9 @@
          <change when="2021-08-08" who="Deepro Chakraborty">
             <p>updated the filev</p>
          </change>
+<change when="2021-08-17" who="Devalina Saikia">
+            <p>added the transcription of 2r</p>
+         </change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -136,6 +139,11 @@
                upapadyate tadvad aśeṣaśabdavyaktyanugatam apa<lb n="7"/>śabdād vyāvṛttaṃ
                śabdasāmānyalakṣaṇaṃ vaktavyaṃ yat sadbhāvāsadbhāvātvāṃ śabdāpaśabdapravibhāgo
                vyavatiṣṭhate |</l>
+
+
+							 <pb n="2r"/><lb n="1"/><l>nugatavyāvṛ ttapratyayānūktamaniyatnanṛtopacakrāsti</l>
+							 yadi pratyakṣaṃ sādhutvaṃ mā mānyaṃ syād tadā bhavati śabde pacati śabde vā <lb n="2"/>sādhuśabdīyamityevaṃ samayagraheṇamatisuprasiddheṣvapi sādhu śabdeṣu śruyamāṇeṣu sādhuśabdīyamiti pratītiḥ prādurbhaved yat<unclear reason="eccentric_ductus" unit="syllable" n="1"/>vṛkṣagavādi pratīti vat tathā bhavati tasmānnasadhutvaṃ nāma samānyaṃ pratyakṣagocaratāmāpādya kadācid            tmānaṃ prakaṭayati. pratyakṣaniṣedhādanumānamapiniṣiddhaṃ draṣṭavyaṃ anavadhāritaliṅgasaṃvatyasyānumānamaśakyatvāt sāmānyatodṛṣṭamanasānuma             saṃbhavatyeva samānyenāpi sāmānyenāpitatpratibadda kāryādi liṅgānu                                                                                                       
+athācasadivasādhutvasarvagamyate ityevaṃ kadācid          tnapīpi           tadetadapi na pramāṇadṛṣṭimanusarvāṅgaḥ pramāṇī kriyate stubhayavādi vipratipatyaviṣayaḥkaścidāgamopi sādhutva                                                   labhyeta yataḥ sādhutvaviniścayaḥ prādurbhāva
          </p>
       </body>
    </text>
