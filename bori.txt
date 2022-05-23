@@ -26,7 +26,7 @@
                         <msItem>
                             <author role="author" xml:lang="sa">unknown</author>
                             <title xml:lang="sa">Apaśabdanirākaraṇa</title>
-                            <textLang mainLang="sa-Deva">[Sanskrit in Sharada script.]</textLang>
+                            <textLang mainLang="sa-Shrd">[Sanskrit in Sharada script.]</textLang>
                         </msItem>
                     </msContents>
                     <physDesc>
