@@ -1,12 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>[MSS Jammu RaghunathaLib 940]</title>
+            <title>[MS Jammu RaghunathaLib 940]</title>
          </titleStmt>
 
          <publicationStmt>
@@ -48,8 +44,8 @@
          <change when="2021-08-08" who="Deepro Chakraborty">
             <p>updated the filev</p>
          </change>
-<change when="2021-08-17" who="Devalina Saikia">
-            <p>added the transcription of 2r</p>
+         <change when="2022-05-22" who="Devalina Saikia and Deepro Chakraborty">
+            <p>added transcription of AN-25-30 </p>
          </change>
       </revisionDesc>
    </teiHeader>
@@ -85,8 +81,8 @@
          <milestone unit="folio" n="1r"/>
          <ab ana="title and folios" style="later hand (black ink)">apaśabdanirākaraṇaṃ pa.6</ab>
          <p>
-            <l>oṃ namo gaṇapataye||</l>
-            <l xml:id="AN-1">apaśabdas tv<add hand="minor" place="top">yā</add> kṛta ity evaṃ yad
+            <l xml:id="AN-0">oṃ namo gaṇapataye ||</l>
+            <l xml:id="AN-1">apaśabdas tva<add hand="minor" place="top">yā</add>kṛta ity evaṃ yad
                bhavadbhir udghuṣṭaṃ tad eva tāvad vicāryate <supplied>|</supplied></l>
             <l xml:id="AN-2">katham ayam apaśabdaḥ</l>
             <l xml:id="AN-3">kiṃ śa<lb n="2"/>bdalakṣaṇarahitatvāt</l>
@@ -138,12 +134,27 @@
                />yatsadbhāvāsadbhāvābhyāṃ pramāṇatadābhāsas tattvetaraviśeṣavyavasthāpanam
                upapadyate tadvad aśeṣaśabdavyaktyanugatam apa<lb n="7"/>śabdād vyāvṛttaṃ
                śabdasāmānyalakṣaṇaṃ vaktavyaṃ yat sadbhāvāsadbhāvātvāṃ śabdāpaśabdapravibhāgo
-               vyavatiṣṭhate |</l>
-
-
-							 <pb n="2r"/><lb n="1"/><l>nugatavyāvṛ ttapratyayānūktamaniyatnanṛtopacakrāsti</l>
-							 yadi pratyakṣaṃ sādhutvaṃ mā mānyaṃ syād tadā bhavati śabde pacati śabde vā <lb n="2"/>sādhuśabdīyamityevaṃ samayagraheṇamatisuprasiddheṣvapi sādhu śabdeṣu śruyamāṇeṣu sādhuśabdīyamiti pratītiḥ prādurbhaved yat<unclear reason="eccentric_ductus" unit="syllable" n="1"/>vṛkṣagavādi pratīti vat tathā bhavati tasmānnasadhutvaṃ nāma samānyaṃ pratyakṣagocaratāmāpādya kadācid            tmānaṃ prakaṭayati. pratyakṣaniṣedhādanumānamapiniṣiddhaṃ draṣṭavyaṃ anavadhāritaliṅgasaṃvatyasyānumānamaśakyatvāt sāmānyatodṛṣṭamanasānuma             saṃbhavatyeva samānyenāpi sāmānyenāpitatpratibadda kāryādi liṅgānu                                                                                                       
-athācasadivasādhutvasarvagamyate ityevaṃ kadācid          tnapīpi           tadetadapi na pramāṇadṛṣṭimanusarvāṅgaḥ pramāṇī kriyate stubhayavādi vipratipatyaviṣayaḥkaścidāgamopi sādhutva                                                   labhyeta yataḥ sādhutvaviniścayaḥ prādurbhāva
+               vyavatiṣṭhate <supplied>|</supplied>
+            </l>
+            <l xml:id="AN-25"> na ca tathā <lb n="8"/>lakṣaṇābhidhāyivyākaraṇaśāstrāṃtargataṃ kiṃ
+               cid api sūtraṃ paśyāmas tatra vyākaraṇapraṇetṛpraṇītalakṣaṇāhita<lb n="9"/>tvenāpy
+               asyāpaśabdatvam iti <supplied>|</supplied></l>
+            <l xml:id="AN-26"> atha samastasādhuśabdānugatam apaśabdād vyāvṛttaṃ sādhutvaṃ nāma
+               sāmānyam eva sādhuśabdānāṃ <lb n="10"/>lakṣaṇaṃ kaś cid vyācakṣīta tad etad asya
+               nirūpitārthābhidhānaṃ <supplied>|</supplied>
+            </l>
+            <l xml:id="AN-27"> tat khalu sādhutvasaṃjñake sāmānyaṃ svayam asiddham
+                  a<unclear>trārkaṃ</unclear>
+               <lb n="11"/>katham anyasya vyavasthāpakaṃ syāt <supplied>|</supplied></l>
+            <l xml:id="AN-28"> na hi hi tadastitve pramāṇaṃ kiṃ cid utpaśyāmaḥ
+                  <supplied>|</supplied></l>
+            <l xml:id="AN-29"> tathā hi nā tāvad akṣavyāpāraje vi<lb n="12"/>jñāne sādhutvam ātmānaṃ
+               prakaṭayati <supplied>|</supplied></l>
+            <l xml:id="AN-30"> yathā ca <unclear reason="eccentric_ductus" cert="low"
+               >tva</unclear>rādijanite vijñāne <unclear reason="eccentric_ductus"
+               >gha</unclear>ṭatvavṛkṣatvarītvādi nīlatvamadhuratvospatvā<lb n="13"/>di ca sāmānyaṃ
+               sajātīyeṣv avāṃtarabhedabhinneṣv apy anugataṃ vijātīyebhyo vyāvṛttaṃ ca pratibhāti
+               naivaṃ sādhutvaṃ nāma sāma<unclear>dhya</unclear></l>
          </p>
       </body>
    </text>
