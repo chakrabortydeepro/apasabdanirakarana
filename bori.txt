@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[MS Pune BORI 1875-76 271(b)]</title>
+            </titleStmt>
+            
+            <publicationStmt>
+                <authority>Deepro Chakraborty and Devaliana Saikia</authority>
+                <date>May 22, 2022</date>
+                <pubPlace>University of Alberta</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="Sanskrit" xml:lang="en">
+                    <msIdentifier>
+                        <placeName>
+                            <settlement>Pune</settlement>
+                            <region>Maharashtra</region>
+                            <country>India</country>
+                        </placeName>
+                        <institution>Bhandarkar Oriental Research Institute</institution>
+                        <idno>271</idno>
+                        <idno type="siglum">b</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="author" xml:lang="sa">unknown</author>
+                            <title xml:lang="sa">Apaśabdanirākaraṇa</title>
+                            <textLang mainLang="sa-Deva">[Sanskrit in Sharada script.]</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="book">
+                            <supportDesc material="paper"/>
+                        </objectDesc>
+                        <!--<handDesc>
+                            <p>insertions are done by another hand</p>
+                        </handDesc>-->
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2022-05-22" who="Deepro Chakraborty and Devalina Saikia">
+                <p>started the filev</p>
+            </change>
+            <change when="2022-05-22" who="Devalina Saikia and Deepro Chakraborty">
+                <p>added transcription of AN-1 </p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface>
+            <graphic url="AN/0r.png"/>
+        </surface>
+    </facsimile>
+    <text xml:lang="sa-Latin">
+        <body>
+            <pb n="11r"/>
+            <milestone unit="folio" n="11r"/>
+            <p>
+                <l xml:id="AN-0"> <lb n="1"/><g ref="#invocation-symbol"/>svasti || oṃ namo gaṇapataye ||</l>
+                <l xml:id="AN-1"> apaśabdas tva kṛta ity evaṃ yad
+                    bhavadbhir udghuṣṭaṃ <lb n="2"/>tad eva tāvad vicāryate |</l>
+                <!-- <l xml:id="AN-2">katham ayam apaśabdaḥ</l>
+                <l xml:id="AN-3">kiṃ śabdalakṣaṇarahitatvāt</l>
+                <l xml:id="AN-4">āhosvid arthapratipattyasādhanatvād iti</l>
+                <l xml:id="AN-5">kiṃ gataḥ</l>
+                <l xml:id="AN-6">yadi tāvac chabdalakṣaṇarahitatvād ayam apaśabda ity evaṃ
+                    vaktum abhipretaṃ tad ayuktaṃ</l>
+                <l xml:id="AN-7">śabdalakṣaṇopapannatvena pratīyamānatvāt</l>
+                <l xml:id="AN-8">tathā hi śrotragrahaṇalakṣaṇaḥ sāmānyavān arthaḥ śabda iti
+                    mabdasadbhāvād bhāvaviśeṣajñāḥ</l>
+                <l xml:id="AN-9">tallakṣaṇopapannatvaṃ cāsya sakalajva<unclear reason="overwriting"
+                    quantity="1" unit="akṣara">ra</unclear>sakṣikatvena pratī<add place="right margin"
+                        ><unclear reason="illegible" quantity="1" unit="akṣara">?</unclear></add><lb
+                            n="5"/>yata eva</l>
+                <l xml:id="AN-10">anyathā hi tatsadbhāvasiddhir eva na syāt</l>
+                <l xml:id="AN-11">na hy ayam apaśabdatvenābhimataḥ śabdaḥ śrotrād anyena pratipattaṃ
+                    śakyata iti</l>
+                <l xml:id="AN-12">athaivaṃ kadācin nigadyate</l>
+                <l xml:id="AN-13">kila yad vyākaraṇapraṇetṛbhir ācāryaiḥ <name type="person"
+                    >prāṇini</name>prabhṛtibhiḥ sādhuśabdānāṃ lakṣaṇaṃ proktaṃ</l>
+                <l xml:id="AN-14">tadrahitatvenāyam apaśabda iti</l>
+                <l xml:id="AN-15">tad etad apy asādhīyaḥ</l>
+                <l xml:id="AN-16">tathā hi vyākaraṇapraṇetṛbhir ācāryaiḥ kiṃ śabdānāṃ <lb n="8"
+                />sāmānyalakṣaṇaṃ proktam āhosvid viśeṣalakṣaṇam ubhaye vā</l>
+                <l xml:id="AN-17">tatra tāvat sāmānyalakṣaṇaṃ praṇītaṃ śrotragrāhyatvavada<lb n="9"
+                />pratibhāsanāt tad yathā <name type="person">kaṇabhuk</name>praṇītaṃ sāmānyavataḥ
+                    śrotragrāhyatvaṃ sarvaśabdānāṃ sāmānyalakṣaṇaṃ pramāṇe nopalabhyate</l>
+                <l xml:id="AN-18">naivaṃ sādhuśabdānām apy aśeṣavyaktyanugataṃ kiṃcid ekaṃ sāmānyabhūtaṃ
+                    vyākaraṇapraṇetṛbhir ācāryaiḥ praṇītalakṣaṇam upalabdhigocaratām
+                    upagacchati</l>
+                <l xml:id="AN-19">tathā hi samālakṣaṇena vākyeṣv asti vākyalakṣaṇaṃ na ca samāseṣu tā<lb
+                    n="12"/>thā kriyālakṣaṇaṃ na kārakeṣv asti kārakalakṣaṇaṃ na ca kriyāsv ity evaṃ
+                    saṃdhivigrahakṛttaddhitādilakṣaṇānām apy
+                    anyonyavargavyāpakatvenāsāmānyātmatā draṣṭavyeti patanobhayalakṣaṇapraṇetatvaṃ
+                    pratyuktaṃ sāmānyalakṣaṇā <pb n="1v"/><milestone unit="folio" n="1v"/>
+                    sambhave ubhayalakṣaṇavyavahāro pi durghaṭa eveti</l>
+                <l xml:id="AN-20"> </l>
+                <l xml:id="AN-21"> atha viśeṣaṇalakṣaṇam eva sādhuśabdānāṃ
+                    pāṇini<supplied>pra</supplied>bhṛtibhiḥ praṇītaṃ | </l>
+                <l xml:id="AN-22">tadrahitatvenāyam apaśabdaḥ ity evaṃ kadācitvaṃ bhaṇīṣi tad
+                    atyanupapannam eva | </l>
+                <l xml:id="AN-23">yasmād viśeṣalakṣaṇarahitatvena viśeṣavyavahāra eva
+                    nivāryatāṃ na śabdatvaṃ sādhutvaṃ vā taddhitalakṣaṇarahitatvena ca
+                    kṛtsataddhitavyavahāra eva na nivartate śabdatvaṃ sādhutvaṃ veti yathā vā
+                    pratyakṣalakṣaṇarahitatvenānumānādau pratyakṣavyavyahāra eva na yukto na tu
+                    pramāṇavyavahāro pīti </l>
+                <l xml:id="AN-24">ta¦smād yathāpramāṇajñair nigaditaṃ pramāsādhanatvaṃ
+                    sakalapramāṇavyaktyanugatam apramāṇād vyāvṛttaṃ pramāṇasāmānyalakṣaṇaṃ <lb n="6"
+                    />yatsadbhāvāsadbhāvābhyāṃ pramāṇatadābhāsas tattvetaraviśeṣavyavasthāpanam
+                    upapadyate tadvad aśeṣaśabdavyaktyanugatam apaśabdād vyāvṛttaṃ
+                    śabdasāmānyalakṣaṇaṃ vaktavyaṃ yat sadbhāvāsadbhāvātvāṃ śabdāpaśabdapravibhāgo
+                    vyavatiṣṭhate <supplied>|</supplied>
+                </l>
+                <l xml:id="AN-25"> na ca tathā lakṣaṇābhidhāyivyākaraṇaśāstrāṃtargataṃ kiṃ
+                    cid api sūtraṃ paśyāmas tatra vyākaraṇapraṇetṛpraṇītalakṣaṇāhitatvenāpy
+                    asyāpaśabdatvam iti <supplied>|</supplied></l>
+                <l xml:id="AN-26"> atha samastasādhuśabdānugatam apaśabdād vyāvṛttaṃ sādhutvaṃ nāma
+                    sāmānyam eva sādhuśabdānāṃ lakṣaṇaṃ kaś cid vyācakṣīta tad etad asya
+                    nirūpitārthābhidhānaṃ <supplied>|</supplied>
+                </l>
+                <l xml:id="AN-27"> tat khalu sādhutvasaṃjñake sāmānyaṃ svayam asiddham
+                    a<unclear>trārkaṃ</unclear>
+                    katham anyasya vyavasthāpakaṃ syāt <supplied>|</supplied></l>
+                <l xml:id="AN-28"> na hi hi tadastitve pramāṇaṃ kiṃ cid utpaśyāmaḥ
+                    <supplied>|</supplied></l>
+                <l xml:id="AN-29"> tathā hi nā tāvad akṣavyāpāraje vijñāne sādhutvam ātmānaṃ
+                    prakaṭayati <supplied>|</supplied></l>
+                <l xml:id="AN-30"> yathā ca <unclear reason="eccentric_ductus" cert="low"
+                    >tva</unclear>rādijanite vijñāne <unclear reason="eccentric_ductus"
+                        >gha</unclear>ṭatvavṛkṣatvarītvādi nīlatvamadhuratvospatvādi ca sāmānyaṃ
+                    sajātīyeṣv avāṃtarabhedabhinneṣv apy anugataṃ vijātīyebhyo vyāvṛttaṃ ca pratibhāti
+                    naivaṃ sādhutvaṃ nāma sāma<unclear>dhya</unclear></l>-->
+            </p>
+        </body>
+    </text>
+</TEI>
