@@ -47,6 +47,9 @@
          <change when="2022-05-22" who="Devalina Saikia and Deepro Chakraborty">
             <p>added transcription of AN-25-30 </p>
          </change>
+         <change when="2022-06-05" who="Devalina Saikia and Deepro Chakraborty">
+            <p>made correction </p>
+         </change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -94,7 +97,7 @@
             <l xml:id="AN-8">tathā hi śrotragrahaṇalakṣaṇaḥ sāmānyavān arthaḥ śabda iti
                mabdasadbhāvād bhāvaviśeṣajñāḥ</l>
             <l xml:id="AN-9">tallakṣaṇopapannatvaṃ cāsya sakalajva<unclear reason="overwriting"
-                  quantity="1" unit="akṣara">ra</unclear>sakṣikatvena pratī<add place="right margin"
+                  quantity="1" unit="akṣara">ra</unclear>sākṣikatvena pratī<add place="right margin"
                      ><unclear reason="illegible" quantity="1" unit="akṣara">?</unclear></add><lb
                   n="5"/>yata eva</l>
             <l xml:id="AN-10">anyathā hi tatsadbhāvasiddhir eva na syāt</l>
@@ -107,28 +110,31 @@
             <l xml:id="AN-15">tad etad apy asādhīyaḥ</l>
             <l xml:id="AN-16">tathā hi vyākaraṇapraṇetṛbhir ācāryaiḥ kiṃ śabdānāṃ <lb n="8"
                />sāmānyalakṣaṇaṃ proktam āhosvid viśeṣalakṣaṇam ubhaye vā</l>
-            <l xml:id="AN-17">tatra tāvat sāmānyalakṣaṇaṃ praṇītaṃ śrotragrāhyatvavada<lb n="9"
-               />pratibhāsanāt tad yathā <name type="person">kaṇabhuk</name>praṇītaṃ sāmānyavataḥ
-               śrotragrāhyatvaṃ sarvaśabdānāṃ sāmānyalakṣaṇaṃ pramāṇe nopa<lb n="10"/>labhyate</l>
+            <l xml:id="AN-17">tatra tāvat sāmānyalakṣaṇaṃ praṇītaṃ śrotragrāhyatvavad a<lb n="9"
+               />pratibhāsanāt tad yathā </l>
+            <l xml:id="AN-17a"><name type="person">kaṇabhuk</name>praṇītaṃ sāmānyavataḥ
+               śrotragrāhyatvaṃ sarvaśabdānāṃ sāmānyalakṣaṇaṃ pramāṇenopa<lb n="10"/>labhyate</l>
             <l xml:id="AN-18">naivaṃ sādhuśabdānām apy aśeṣavyaktyanugataṃ kiṃcid ekaṃ sāmānyabhūtaṃ
                vyākaraṇapraṇetṛbhir ācāryaiḥ praṇīta<lb n="11"/>lakṣaṇam upalabdhigocaratām
                upagacchati</l>
             <l xml:id="AN-19">tathā hi samālakṣaṇena vākyeṣv asti vākyalakṣaṇaṃ na ca samāseṣu tā<lb
                   n="12"/>thā kriyālakṣaṇaṃ na kārakeṣv asti kārakalakṣaṇaṃ na ca kriyāsv ity evaṃ
                   saṃdhivigrahakṛttaddhitādilakṣaṇānā<lb n="12"/>m apy
-               anyonyavargavyāpakatvenāsāmānyātmatā draṣṭavyeti patanobhayalakṣaṇapraṇetatvaṃ
+               anyonyavargavyāpakatvenāsāmānyātmatā draṣṭavyeti </l>
+            <l xml:id="AN-19a">etenobhayalakṣaṇapraṇetatvaṃ
                pratyuktaṃ sāmānyalakṣaṇā <pb n="1v"/><milestone unit="folio" n="1v"/>
-               <lb n="1"/>sambhave ubhayalakṣaṇavyavahāro pi durghaṭa eveti</l>
+               <lb n="1"/>sambhave ubhayalakṣaṇavyavahāro pi durghaṭa eveti </l>
             <l xml:id="AN-20"> </l>
             <l xml:id="AN-21"> atha viśeṣaṇalakṣaṇam eva sādhuśabdānāṃ
-                  pāṇini<supplied>pra</supplied>bhṛtibhiḥ praṇī<lb n="2"/>taṃ | </l>
+                  pāṇinibhṛtibhiḥ praṇī<lb n="2"/>taṃ | </l>
             <l xml:id="AN-22">tadrahitatvenāyam apaśabdaḥ ity evaṃ kadācitvaṃ bhaṇīṣi tad
                atyanupapannam eva | </l>
             <l xml:id="AN-23">yasmād viśeṣalakṣaṇarahitatvena viśeṣa<lb n="3"/>vyavahāra eva
                nivāryatāṃ na śabdatvaṃ sādhutvaṃ vā taddhitalakṣaṇarahitatvena ca
-               kṛtsataddhitavyavahāra eva na nivartate śabdatvaṃ sā<lb n="4"/>dhutvaṃ veti yathā vā
-               pratyakṣalakṣaṇarahitatvenānumānādau pratyakṣavyavyahāra eva na yukto na tu
-               pramāṇavyavahāro pīti </l>
+               kṛtsu taddhitavyavahāra eva na nivartate </l>
+            <l xml:id="AN-23a">śabdatvaṃ sā<lb n="4"/>dhutvaṃ veti </l>
+            <l xml:id="AN-23b">yathā vā pratyakṣalakṣaṇarahitatvenānumānādau pratyakṣavyavyahāra eva na yukto na tu
+               pramāṇavyavahāro pīti </l>           
             <l xml:id="AN-24">ta¦<lb n="5"/>smād yathāpramāṇajñair nigaditaṃ pramāsādhanatvaṃ
                sakalapramāṇavyaktyanugatam apramāṇād vyāvṛttaṃ pramāṇasāmānyalakṣaṇaṃ <lb n="6"
                />yatsadbhāvāsadbhāvābhyāṃ pramāṇatadābhāsas tattvetaraviśeṣavyavasthāpanam
