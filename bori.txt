@@ -47,6 +47,9 @@
             <change when="2022-06-05" who="Devalina Saikia and Deepro Chakraborty">
                 <p>added transcription of AN-1 </p>
             </change>
+            <change when="2022-06-12" who="Devalina Saikia and Deepro Chakraborty">
+                <p>added transcription of AN-11v-30 </p>
+            </change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -109,33 +112,32 @@
                 <l xml:id="AN-23a">śabdatvaṃ sā<lb n="25"/>dhutvaṃ veti |</l>
                 <l xml:id="AN-23b">yathā vā pratyakṣalakṣaṇarahitatvenānumānādau pratyakṣavyavyahāra
                     eva <pb n="11v"/><lb n="1"/>na yukto na tu pramāṇavyavahāro pīti |</l>
-                <!-- <l xml:id="AN-24">ta¦smād yathāpramāṇajñair nigaditaṃ pramāsādhanatvaṃ
-                    sakalapramāṇavyaktyanugatam apramāṇād vyāvṛttaṃ pramāṇasāmānyalakṣaṇaṃ <lb n="6"
-                    />yatsadbhāvāsadbhāvābhyāṃ pramāṇatadābhāsas tattvetaraviśeṣavyavasthāpanam
-                    upapadyate tadvad aśeṣaśabdavyaktyanugatam apaśabdād vyāvṛttaṃ
-                    śabdasāmānyalakṣaṇaṃ vaktavyaṃ yat sadbhāvāsadbhāvātvāṃ śabdāpaśabdapravibhāgo
-                    vyavatiṣṭhate <supplied>|</supplied>
-                </l>
-                <l xml:id="AN-25"> na ca tathā lakṣaṇābhidhāyivyākaraṇaśāstrāṃtargataṃ kiṃ
-                    cid api sūtraṃ paśyāmas tatra vyākaraṇapraṇetṛpraṇītalakṣaṇāhitatvenāpy
-                    asyāpaśabdatvam iti <supplied>|</supplied></l>
-                <l xml:id="AN-26"> atha samastasādhuśabdānugatam apaśabdād vyāvṛttaṃ sādhutvaṃ nāma
-                    sāmānyam eva sādhuśabdānāṃ lakṣaṇaṃ kaś cid vyācakṣīta tad etad asya
-                    nirūpitārthābhidhānaṃ <supplied>|</supplied>
-                </l>
-                <l xml:id="AN-27"> tat khalu sādhutvasaṃjñake sāmānyaṃ svayam asiddham
-                    a<unclear>trārkaṃ</unclear>
-                    katham anyasya vyavasthāpakaṃ syāt <supplied>|</supplied></l>
-                <l xml:id="AN-28"> na hi hi tadastitve pramāṇaṃ kiṃ cid utpaśyāmaḥ
-                    <supplied>|</supplied></l>
-                <l xml:id="AN-29"> tathā hi nā tāvad akṣavyāpāraje vijñāne sādhutvam ātmānaṃ
-                    prakaṭayati <supplied>|</supplied></l>
+                <l xml:id="AN-24">tasmād yathā pramāṇajñair nigaditaṃ pramāsādhanatvaṃ sa<lb n="2"
+                    />kalapramāṇavyaktyanugatam apramāṇād vyāvṛttaṃ pramāṇasāmānyalakṣaṇaṃ
+                        yatsadbhāvā<lb n="3"/>sadbhāvābhyāṃ pramāṇatadābhāsas
+                    tattvetaraviśeṣavyavasthāpanam upapadyate | </l>
+                <l xml:id="AN-24a">tadvad aśeṣaśabdavyaktyanugatam apaśabdād vyāvṛttaṃ
+                    śabdasāmānyalakṣaṇaṃ vaktavyaṃ yat sadbhā<lb n="5"/>vāsadbhāvātvāṃ
+                    śabdāpaśabdapravibhāgo vyavatiṣṭhate | </l>
+                <l xml:id="AN-25"> na ca tathā lakṣaṇābhidhāyi<lb n="6"/>vyākaraṇaśāstrāntargataṃ
+                    kiṃ cid api sūtraṃ paśyāmas tatra vyākaraṇapraṇetṛpra<lb n="7"
+                    />ṇītalakṣaṇāhitatvenāpy asyāpaśabdatvam iti |</l>
+                <l xml:id="AN-26"> atha samastasādhuśabdānugata<lb n="8"/>m apaśabdād vyāvṛttaṃ
+                    sādhutvaṃ nāma sāmānyam eva sādhuśabdānāṃ lakṣaṇaṃ kaś cid vyā<lb n="9"/>cakṣīta
+                    tad etad asya nirūpitārthābhidhānaṃ </l>
+                <l xml:id="AN-27"> tat khalu sādhutvasaṃjñakaṃ sāmānyaṃ sva<lb n="10"/>yam
+                    asiddhamattārkaṃ katham anyasya vyavasthāpakaṃ syāt <supplied>|</supplied></l>
+                <l xml:id="AN-28"> na hi hi tadastitve pramāṇaṃ <lb n="11"/>kiṃ cid utpaśyāmaḥ
+                        <supplied>|</supplied></l>
+                <l xml:id="AN-29"> tathā hi <unclear reason="overwriting">nā</unclear> tāvad
+                    akṣavyāpāraje vijñāne sādhutvam ātmānaṃ praka<lb n="12"/>ṭayati |</l>
                 <l xml:id="AN-30"> yathā ca <unclear reason="eccentric_ductus" cert="low"
-                    >tva</unclear>rādijanite vijñāne <unclear reason="eccentric_ductus"
-                        >gha</unclear>ṭatvavṛkṣatvarītvādi nīlatvamadhuratvospatvādi ca sāmānyaṃ
-                    sajātīyeṣv avāṃtarabhedabhinneṣv apy anugataṃ vijātīyebhyo vyāvṛttaṃ ca pratibhāti
-                    naivaṃ sādhutvaṃ nāma sāma<unclear>dhya</unclear></l>-->
-            </p>
+                        >kṣu</unclear>rādijanite vijñāne ghaṭatvavṛkṣatvagotvādi
+                        nīlatvamadhuratvo<lb n="13"/>ṣṇatvādi ca sāmānyaṃ sajātīyeṣv
+                    avāṃtarabhedabhinneṣv apy anugataṃ vijātīyebhyo <lb n="14"/>vyāvṛttaṃ ca
+                    pratibhāti naivaṃ sādhutvaṃ nāma sāmānyam anugatavyāvṛttapratyayārūḍham a<lb
+                        n="15"/></l>
+                --> </p>
         </body>
     </text>
 </TEI>

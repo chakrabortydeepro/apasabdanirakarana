@@ -135,10 +135,10 @@
             <l xml:id="AN-23a">śabdatvaṃ sā<lb n="4"/>dhutvaṃ veti </l>
             <l xml:id="AN-23b">yathā vā pratyakṣalakṣaṇarahitatvenānumānādau pratyakṣavyavyahāra eva na yukto na tu
                pramāṇavyavahāro pīti </l>           
-            <l xml:id="AN-24">ta¦<lb n="5"/>smād yathāpramāṇajñair nigaditaṃ pramāsādhanatvaṃ
+            <l xml:id="AN-24">ta¦<lb n="5"/>smād yathā pramāṇajñair nigaditaṃ pramāsādhanatvaṃ
                sakalapramāṇavyaktyanugatam apramāṇād vyāvṛttaṃ pramāṇasāmānyalakṣaṇaṃ <lb n="6"
-               />yatsadbhāvāsadbhāvābhyāṃ pramāṇatadābhāsas tattvetaraviśeṣavyavasthāpanam
-               upapadyate tadvad aśeṣaśabdavyaktyanugatam apa<lb n="7"/>śabdād vyāvṛttaṃ
+               />yatsadbhāvāsadbhāvābhyāṃ pramāṇatadābhāsas tattvetaraviśeṣavyavasthāpanam upapadyate</l>
+            <l xml:id="AN-24a">tadvad aśeṣaśabdavyaktyanugatam apa<lb n="7"/>śabdād vyāvṛttaṃ
                śabdasāmānyalakṣaṇaṃ vaktavyaṃ yat sadbhāvāsadbhāvātvāṃ śabdāpaśabdapravibhāgo
                vyavatiṣṭhate <supplied>|</supplied>
             </l>
