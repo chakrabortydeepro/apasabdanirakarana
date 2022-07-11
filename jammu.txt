@@ -50,6 +50,9 @@
          <change when="2022-06-05" who="Devalina Saikia and Deepro Chakraborty">
             <p>made correction </p>
          </change>
+         <change when="2022-07-10" who="Shilpi Sarkar and Deepro Chakraborty">
+            <p>added transcription of AN-31-35</p>
+         </change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -121,23 +124,24 @@
                   n="12"/>thā kriyālakṣaṇaṃ na kārakeṣv asti kārakalakṣaṇaṃ na ca kriyāsv ity evaṃ
                   saṃdhivigrahakṛttaddhitādilakṣaṇānā<lb n="12"/>m apy
                anyonyavargavyāpakatvenāsāmānyātmatā draṣṭavyeti </l>
-            <l xml:id="AN-19a">etenobhayalakṣaṇapraṇetatvaṃ
-               pratyuktaṃ sāmānyalakṣaṇā <pb n="1v"/><milestone unit="folio" n="1v"/>
+            <l xml:id="AN-19a">etenobhayalakṣaṇapraṇetatvaṃ pratyuktaṃ sāmānyalakṣaṇā <pb n="1v"
+                  /><milestone unit="folio" n="1v"/>
                <lb n="1"/>sambhave ubhayalakṣaṇavyavahāro pi durghaṭa eveti </l>
             <l xml:id="AN-20"> </l>
-            <l xml:id="AN-21"> atha viśeṣaṇalakṣaṇam eva sādhuśabdānāṃ
-                  pāṇinibhṛtibhiḥ praṇī<lb n="2"/>taṃ | </l>
+            <l xml:id="AN-21"> atha viśeṣaṇalakṣaṇam eva sādhuśabdānāṃ pāṇinibhṛtibhiḥ praṇī<lb
+                  n="2"/>taṃ | </l>
             <l xml:id="AN-22">tadrahitatvenāyam apaśabdaḥ ity evaṃ kadācitvaṃ bhaṇīṣi tad
                atyanupapannam eva | </l>
             <l xml:id="AN-23">yasmād viśeṣalakṣaṇarahitatvena viśeṣa<lb n="3"/>vyavahāra eva
-               nivāryatāṃ na śabdatvaṃ sādhutvaṃ vā taddhitalakṣaṇarahitatvena ca
-               kṛtsu taddhitavyavahāra eva na nivartate </l>
+               nivāryatāṃ na śabdatvaṃ sādhutvaṃ vā taddhitalakṣaṇarahitatvena ca kṛtsu
+               taddhitavyavahāra eva na nivartate </l>
             <l xml:id="AN-23a">śabdatvaṃ sā<lb n="4"/>dhutvaṃ veti </l>
-            <l xml:id="AN-23b">yathā vā pratyakṣalakṣaṇarahitatvenānumānādau pratyakṣavyavyahāra eva na yukto na tu
-               pramāṇavyavahāro pīti </l>           
+            <l xml:id="AN-23b">yathā vā pratyakṣalakṣaṇarahitatvenānumānādau pratyakṣavyavyahāra eva
+               na yukto na tu pramāṇavyavahāro pīti </l>
             <l xml:id="AN-24">ta¦<lb n="5"/>smād yathā pramāṇajñair nigaditaṃ pramāsādhanatvaṃ
                sakalapramāṇavyaktyanugatam apramāṇād vyāvṛttaṃ pramāṇasāmānyalakṣaṇaṃ <lb n="6"
-               />yatsadbhāvāsadbhāvābhyāṃ pramāṇatadābhāsas tattvetaraviśeṣavyavasthāpanam upapadyate</l>
+               />yatsadbhāvāsadbhāvābhyāṃ pramāṇatadābhāsas tattvetaraviśeṣavyavasthāpanam
+               upapadyate</l>
             <l xml:id="AN-24a">tadvad aśeṣaśabdavyaktyanugatam apa<lb n="7"/>śabdād vyāvṛttaṃ
                śabdasāmānyalakṣaṇaṃ vaktavyaṃ yat sadbhāvāsadbhāvātvāṃ śabdāpaśabdapravibhāgo
                vyavatiṣṭhate <supplied>|</supplied>
@@ -160,7 +164,21 @@
                >tva</unclear>rādijanite vijñāne <unclear reason="eccentric_ductus"
                >gha</unclear>ṭatvavṛkṣatvarītvādi nīlatvamadhuratvospatvā<lb n="13"/>di ca sāmānyaṃ
                sajātīyeṣv avāṃtarabhedabhinneṣv apy anugataṃ vijātīyebhyo vyāvṛttaṃ ca pratibhāti
-               naivaṃ sādhutvaṃ nāma sāma<unclear>dhya</unclear></l>
+               naivaṃ sādhutvaṃ nāma sāma<unclear>dhya</unclear><pb n="2r"/><lb n="1"
+               />nugatavyāvṛttapratyayānūḍham atiyatnavṛto pi cakāsti </l>
+            <l xml:id="AN-31"> yadi pratyakṣaṃ sādhutvaṃ sāmānyaṃ syāt tadā bhavatiśabde pacatiśabde
+               vā <lb n="2"/>sādhuśabdo yam ity evaṃ samayagraheṇa sati aprasiddheṣv api
+               sādhuśabdeṣu śrūyamāṇeṣu sādhuśabdo yam iti pratītiḥ prādurbhaved gha<lb n="3"
+               />vṛkṣagavādipratītivan na ca tathā bhavati </l>
+            <l xml:id="AN-32"> tasmān na sādhutvaṃ nāma sāmānyaṃ pratyakṣa<sic>ge</sic>caratām
+               āpādya kadācid apy ātmānaṃ prakaṭa<lb n="4"/>yati</l>
+            <l xml:id="AN-33"> pratyakṣaniṣedhād anumānum api niṣiddhaṃ draṣṭavyaṃ</l>
+            <l xml:id="AN-34"> anavadhāritaliṃgasaṃvandhasyānumātum aśakyatvāt </l>
+            <l xml:id="AN-35"> sāmānyato <lb n="5"/>dṛṣṭamanasānam atra na saṃbhavaty eva </l>
+            <l xml:id="AN-36"> </l>
+            <l xml:id="AN-37"> </l>
+            <l xml:id="AN-38"> </l>
+            <l xml:id="AN-39"> </l>
          </p>
       </body>
    </text>

@@ -50,6 +50,9 @@
             <change when="2022-06-12" who="Devalina Saikia and Deepro Chakraborty">
                 <p>added transcription of AN-11v-30 </p>
             </change>
+            <change when="2022-07-10" who="Shilpi Sarkar and Deepro Chakraborty">
+                <p>added transcription of AN-31-35 </p>
+            </change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -136,8 +139,17 @@
                         nīlatvamadhuratvo<lb n="13"/>ṣṇatvādi ca sāmānyaṃ sajātīyeṣv
                     avāṃtarabhedabhinneṣv apy anugataṃ vijātīyebhyo <lb n="14"/>vyāvṛttaṃ ca
                     pratibhāti naivaṃ sādhutvaṃ nāma sāmānyam anugatavyāvṛttapratyayārūḍham a<lb
-                        n="15"/></l>
-                --> </p>
+                        n="15"/>tiyatnavṛto pi cakāsti |</l>
+                <l xml:id="AN-31"> yadi pratyakṣaṃ sādhutvaṃ sāmānyaṃ syāt tadā bhavatiśabde pṛ<lb
+                        n="16"/>catiśabde vā sādhuśabdo yam ity evaṃ samayagraheṇa sati aprasiddheṣv
+                    api <lb n="17"/>sādhuśabdeṣu śrūyamāṇeṣu sādhuśabdo yam iti pratītiḫ
+                    prādurbhaved ghavṛkṣaga<lb n="18"/>vādipratītivan na ca tathā bhavati </l>
+                <l xml:id="AN-32"> tasmān na sādhutvaṃ nāma sāmānyaṃ pratyakṣagocaratā<lb n="19"/>m
+                    āpādya kadācid apy ātmānaṃ prakaṭayati |</l>
+                <l xml:id="AN-33"> pratyakṣaniṣedhād anumānum api <lb n="20"/>niṣiddhaṃ draṣṭavyam</l>
+                <l xml:id="AN-34"> anavadhāritaliṅgasaṃbandhasyānumātum aśakyatvāt </l>
+                <l xml:id="AN-35"> sāmā<lb n="21"/>nyato dṛṣṭam anumānam atra na saṃbhavaty eva |</l>
+            </p>
         </body>
     </text>
 </TEI>
