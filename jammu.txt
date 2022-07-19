@@ -53,6 +53,9 @@
          <change when="2022-07-10" who="Shilpi Sarkar and Deepro Chakraborty">
             <p>added transcription of AN-31-35</p>
          </change>
+         <change when="2022-07-18" who="Shilpi Sarkar and Deepro Chakraborty">
+            <p>added transcription of AN-36-39</p>
+         </change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -175,10 +178,16 @@
             <l xml:id="AN-33"> pratyakṣaniṣedhād anumānum api niṣiddhaṃ draṣṭavyaṃ</l>
             <l xml:id="AN-34"> anavadhāritaliṃgasaṃvandhasyānumātum aśakyatvāt </l>
             <l xml:id="AN-35"> sāmānyato <lb n="5"/>dṛṣṭamanasānam atra na saṃbhavaty eva </l>
-            <l xml:id="AN-36"> </l>
-            <l xml:id="AN-37"> </l>
-            <l xml:id="AN-38"> </l>
-            <l xml:id="AN-39"> </l>
+            <l xml:id="AN-36"> sāmānyenāpi tatpratibaddhakāryādiliṃgānupala<unclear
+                  reason="eccentric_ductus">bdhe</unclear>r iti </l>
+            <l xml:id="AN-37"> athācasadeva sādhutvasa<lb n="6"/>rva gamyate ity evaṃ kadā cil
+               lālapīpi tad etad api na pramāṇadṛṣṭim anusaradbhiḥ pramāṇīṃkriyate </l>
+            <l xml:id="AN-38"> na hy ubhayavādivipratipattya<lb n="7"/>viṣayaḥ kaś cid āgamo pi
+               sādhutvasadbhāvāvedaka upalabhyate </l>
+            <l xml:id="AN-39"> yataḥ sādhutvaviniścayaḥ prādurbhāvam āsādaye<unclear
+                  reason="eccentric_ductus">d va</unclear>cana mā<lb n="8"/>trasya ca sarvatra
+               sulabhatvā<unclear>n na</unclear> tato vivādagocarāpannārthaviniścayaḥ saṃvatīti nāgamād api
+               sādhutvādhigamaḥ kartuṃ yu<lb n="9"/>kta iti </l>
          </p>
       </body>
    </text>
