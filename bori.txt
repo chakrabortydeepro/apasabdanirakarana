@@ -56,6 +56,9 @@
             <change when="2022-07-18" who="Shilpi Sarkar and Deepro Chakraborty">
                 <p>added transcription of AN-36-39</p>
             </change>
+            <change when="2022-07-31" who="Shilpi Sarkar Devalina Saikia and Deepro Chakraborty">
+                <p>added transcription of AN-40-43</p>
+            </change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -157,14 +160,27 @@
                 <l xml:id="AN-36"> sāmānyenāpi tatpratibaddhakāryā<unclear reason="overwriting"
                         >di</unclear>li<lb n="22"/>ṅgānupalabdher iti |</l>
                 <l xml:id="AN-37"> athācasādeva sādhutvam avagamyate ity evaṃ kadā ci<unclear
-                    reason="overwriting">l lā</unclear><sic>lapī<lb n="23"/>pi</sic> tad etad api na
-                    pramāṇadṛṣṭim anusaradbhiḫ pramāṇīṃkriyate |</l>
+                        reason="overwriting">l lā</unclear><sic>lapī<lb n="23"/>pi</sic> tad etad
+                    api na pramāṇadṛṣṭim anusaradbhiḫ pramāṇīṃkriyate |</l>
                 <l xml:id="AN-38"> na hy ubhayavādi<lb n="24"/>vipratipattyaviṣayaẖ kaś cid āgamo pi
                     sādhutvasadbhāvāvedaka upalabhyate |</l>
                 <l xml:id="AN-39"> yata<lb n="25"/>s sādhutvaviniścayaḫ prādurbhāvam āsādayed
                     vacanamātrasya ca sarvatra sulabhatvā<unclear>n na</unclear> tato <pb n="12r"
                         /><lb n="1"/>vivādagocarāpannārthaviniścayas saṃvatīti nāgamād api
                         sādhutvādhigama<lb n="2"/>ẖ kartuṃ yukta iti |</l>
+                <l xml:id="AN-40"> atha kadācid dharmasādhanatvānyathānapattitas sādhutvaṃ
+                        niścīya<lb n="3"/>te ity evaṃ rāraṭīṣi tad api na
+                    pramāṇadṛṣṭigocarāpannavacaḫ pratibhāti |</l>
+                <l xml:id="AN-41"> na hi <lb n="4"/>keṣucic chabdeṣu samuccāryamāṇeṣu dharma
+                    utpadyamānas saṃlakṣayitum atiya<lb n="5"/>tnam abhimatāpi prapāryate yataḥ
+                    keṣāṃ cid eva śabdānāṃ dharmasādhanatvāvagama<lb n="6"/>pūrvakas
+                    sādhutvaniścayaḫ prādurbhavet </l>
+                <l xml:id="AN-42"> ghaṭādisādhanatvāvagamapūrvakakumbhakāra<lb n="7"
+                    />tvaviniścayavad iti | </l>
+                <l xml:id="AN-43"> yat punar etat kaiś cin nigadyate kilāpaśabdaṃ kurvanto surā<lb
+                        n="8"/>ḫ parābhavaṃ prāpta ity evaṃ śrūyate ity ete paśabdānām ahetutvāt
+                    sādhuśabdā eva dharma<lb n="9"/>hetu ity avadhāryate iti tad apy asādhutaraṃ
+                    yuktisadbhāvabhāvitaṃ manasāṃ pratibhā<lb n="10"/>ti</l>
             </p>
         </body>
     </text>

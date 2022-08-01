@@ -56,6 +56,9 @@
          <change when="2022-07-18" who="Shilpi Sarkar and Deepro Chakraborty">
             <p>added transcription of AN-36-39</p>
          </change>
+         <change when="2022-07-31" who="Shilpi Sarkar Devalina Saikia and Deepro Chakraborty">
+            <p>added transcription of AN-40-43</p>
+         </change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -186,8 +189,19 @@
                sādhutvasadbhāvāvedaka upalabhyate </l>
             <l xml:id="AN-39"> yataḥ sādhutvaviniścayaḥ prādurbhāvam āsādaye<unclear
                   reason="eccentric_ductus">d va</unclear>cana mā<lb n="8"/>trasya ca sarvatra
-               sulabhatvā<unclear>n na</unclear> tato vivādagocarāpannārthaviniścayaḥ saṃvatīti nāgamād api
-               sādhutvādhigamaḥ kartuṃ yu<lb n="9"/>kta iti </l>
+                  sulabhatvā<unclear>n na</unclear> tato vivādagocarāpannārthaviniścayaḥ saṃvatīti
+               nāgamād api sādhutvādhigamaḥ kartuṃ yu<lb n="9"/>kta iti </l>
+            <l xml:id="AN-40"> atha kadācid dharmasādhanatvānyathānapattitaḥ sādhutvaṃ niścīyate ity
+               evaṃ rāraṭīṣi tad api na pramāṇadṛṣṭi<lb n="10"/>gocarāpannavacaḥ pratibhāti</l>
+            <l xml:id="AN-41"> na hi keṣucic chabdeṣu samuccāryamāneṣu dharma utpadyamānaḥ
+               saṃlakṣayitu sati yatnam a<lb n="11"/>bhimatāpi prapāryate yataḥ keṣāṃ cid eva
+               śabdānāṃ dharmasādhanatvāvagamapūrvakaḥ sādhutvaniścayaḥ prādurbhavet </l>
+            <l xml:id="AN-42"> ghaṭā<lb n="12"/>disādhanatvāvagamapūrvakakuṃbhakāratvaviniścayavad
+               iti </l>
+            <l xml:id="AN-43"> yat punar etat kaiś cin nigadyate kilāpaśabdaṃ kurvaṃto su<lb n="13"
+               />rāḥ parābhavaṃ prāpta ity evaṃ śrūyate ity ete paśabdānām ahetutvāt
+               sādhuśabdāpavadharmahetu ity avadhāryate iti tad apy asā<pb n="2v"/><lb n="1"
+               />dhutaraṃ yuktimadbhāvabhāvitaṃ manasāṃ pratibhāti</l>
          </p>
       </body>
    </text>
