@@ -181,6 +181,40 @@
                         n="8"/>ḫ parābhavaṃ prāpta ity evaṃ śrūyate ity ete paśabdānām ahetutvāt
                     sādhuśabdā eva dharma<lb n="9"/>hetu ity avadhāryate iti tad apy asādhutaraṃ
                     yuktisadbhāvabhāvitaṃ manasāṃ pratibhā<lb n="10"/>ti</l>
+                <l xml:id="AN-44"> na khalu kathākathanamātreṇārthaviśeṣaṃ prativipratipadyamānaḫ
+                        prativā<lb n="11"/>dī sapratipattiviṣayam ānetuṃ pārtyata iti | viparītām
+                    api hi kathāṃ racayi<lb n="12"/>tvā kathayituṃ śakyata eva
+                    mukharogitaprajñādāridryaupahatena vā śakyate | </l>
+                <l xml:id="AN-45"> api <lb n="13"/>cāpaśabdaṃ kurvatāṃ yady adharmaḫ prādurbhavati |
+                    tadānīṃ ye tāvat sādhuśabdānabhijñās teṣāṃ<lb n="14"/>m asaṃskṛtaśabdaprayogāt
+                    satatam adharmotpattiḫ prāpnoti ||</l>
+                <l xml:id="AN-46"> ye tu saṃskṛtaśabdābhijñās te <lb n="15"/>pi vyavahārakāle
+                    prāyeṇa tāvad asaṃskṛtam eva śabdaṃ prayuṃjānā dṛśyante</l>
+                <l xml:id="AN-47"> tatas teṣā<lb n="16"/>m api adharmotpattir aparihāryety ato na
+                    kaś cid dharmabahulaḫ puruṣo bhavet </l>
+                <l xml:id="AN-48"> athātu<lb n="17"/>rved yena mlecchitavyam iti vacanād antarvedyām
+                    evā sādhuśabdoccāraṇād adharmas sādhu<lb n="18"/>śabdoccāraṇāt tu dharma ity
+                    ayaṃ pakṣas svīkriyate tadādīm antarvedyām eva śabdāpaśa<lb n="19"
+                    />bdapravibhāgaḥ prāpnoti | </l>
+                <l xml:id="AN-49">na vādādikāle | </l>
+                <l xml:id="AN-50">tadā dharmādharmasādhanatvābhāvād iti |</l>
+                <l xml:id="AN-51"> a<lb n="20"/>tha kadācid evaṃ manyase yathaikatra pacanādikriyā
+                    kurvanto dṛṣṭāḫ pācakādaya<lb n="21"/>s te yatrāpi pacanādikriyāṃ na kurvanti
+                    tatrāpi pācakādaya evocyante na tadābhāsāḥ </l>
+                <l xml:id="AN-52">
+                    <lb n="22"/>tathāntarvedyāṃ ye dharmaṃ kurvanti | te nyatra dharmam akurvato pi
+                    sādhuśabdā eva nigadyante | </l>
+                <l xml:id="AN-53"> ye <lb n="23"/>tv anta<del unit="char" n="1"/>rvedyām adharmaṃ
+                    kurvanti te ty atrādharmam akurvanto pi asādhuśabdā eveti tad eta<lb n="24"/>d
+                    apy avicāritārthābhidhānam</l>
+                <l xml:id="AN-54"> yataḫ pacanāvikriyāṃ tāvat kvacit pratyakṣam eva puruṣa<lb n="25"
+                    />viśeṣas savyāpārabhāvyavyatirekāv anukārayantaḫ </l>
+                <l xml:id="AN-55"> kecid upalabhyanta ity atas te puruṣa<pb n="12v"/><lb n="1"
+                    />viśeṣa <unclear unit="char" n="1"/> kriyāviśeṣanimittatvena pācakādivyapadeśaṃ
+                    labdhvānyad ānanyasādhā<lb n="2"/>raṇatilakapulakādiviśeṣadarśanād ayaṃ
+                    cittraṃkara ity evaṃmādivyapade<lb n="3"/>śabhājo bhavantīti yuktam etat </l>
+                <l xml:id="AN-56"> na tv evam antarvedyāṃ keṣāṃcic chabdānāṃ vyāpārānva<lb n="4"
+                    />yavyatirekābhyāṃ dharmotpattiẖ </l>
             </p>
         </body>
     </text>

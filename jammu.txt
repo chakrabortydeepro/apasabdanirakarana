@@ -202,6 +202,50 @@
                />rāḥ parābhavaṃ prāpta ity evaṃ śrūyate ity ete paśabdānām ahetutvāt
                sādhuśabdāpavadharmahetu ity avadhāryate iti tad apy asā<pb n="2v"/><lb n="1"
                />dhutaraṃ yuktimadbhāvabhāvitaṃ manasāṃ pratibhāti</l>
+            <l xml:id="AN-44"> na khalu kathākathanamātreṇārthaviśeṣaṃ prativipratipadyamānaḥ
+               prativādī sapra<lb n="2"/>tipattiviṣayam ānetuṃ pārtyata iti viparītām api hi kathāṃ
+               racayitvā kathayituṃ śakyata eva mukharogitaprajñādāridryaupaha<lb n="3"/>tena vā
+               śakyate</l>
+            <l xml:id="AN-45"> api cāpaśabdaṃ kurvatāṃ yady adharmaḥ prādurbhavati tadānīṃ ye tāvat
+               sādhuśabdānabhijñās teṣāṃm asaṃskṛtaśabdapra<lb n="4"/>yogāt satatam adharmotpattiḥ
+               prāpnoti</l>
+            <l xml:id="AN-46"> ye tu saṃskṛtaśabdābhijñās te pi vyavahārakāle prāyeṇa tāvad
+               asaṃskṛtam eva śabdaṃ prayuṃ<lb n="5"/>jānā dṛśyaṃte</l>
+            <l xml:id="AN-47"> tatas teṣām api adharmotpattir aparihāryety ato na kaś cid
+               dharmabahulaḥ puruṣo bhavet </l>
+            <l xml:id="AN-48"> athāturve yena mlecchi<lb n="6"/>tavyam iti vacanād aṃtarvedyā sevā
+               sādhuśabdoccāraṇād adharmaḥ sādhuśabdoccāraṇāt tu dharma ity ayaṃ pakṣaḥ svīkriyate
+                  tadā<lb n="7"/>dīm aṃtarvedyām eva śabdāpaśabdapravibhāgaḥ prāpnoti </l>
+            <l xml:id="AN-49">na vādādikāle </l>l <l xml:id="AN-50">tadā
+               dharmādharmasādhanatvābhāvād iti </l>
+            <l xml:id="AN-51"> atha kadā<lb n="7"/>cid evaṃ manyase yathaikatra pacanādikriyā
+               kurvaṃto dṛṣṭāḥ pācakādayas te yatrāpi pacanādikriyāṃ na kurvaṃti tatrāpi pā<lb n="8"
+               />cakādayaḥ <unclear>e</unclear>vosyaṃte na tadābhāsāḥ </l>
+            <l xml:id="AN-52"> tathāṃtarvedyāṃ ye dharmaṃ kurvaṃti te nyatra dharmam akurvato pi
+                  sā<unclear>ṭu</unclear>śabdā eva nigadyaṃte </l>
+            <l xml:id="AN-53">ye tv aṃ<lb n="9"/>tarvedyām adharmaṃ kurvaṃti te py atrādharmam
+               akurvaṃto pi asādhuśabdā eveti tad etad apy avicāritārthābhidhānam</l>
+            <l xml:id="AN-54"> yataḥ pa<lb n="10"/>canāvikriyāṃ tāvat kvacit pratyakṣam eva
+               puruṣaviśeṣaḥ savyāpārabhāvyavyatirekāv anukārayaṃtaḥ </l>
+            <l xml:id="AN-55"> kecid upalabhyaṃtā <lb n="11"/>ity atas te puruṣaviśeṣā na
+               kriyāviśeṣanimittatvena pācakādivyapadeśaṃ labdhvānyad ānanyasādhāraṇatilakapu<lb
+                  n="12"/>lakāṃdiviśeṣadarśanād ayaṃ citraṃkara ity evaṃmādivyapadeśabhājo
+               bhavaṃtīti yuktam etat </l>
+            <l xml:id="AN-56"> na tv evam aṃtarvedyāṃ keṣāṃci|<pb n="3r"/><lb n="1"/>c chabdānāṃ
+               vyāpārānvayavyatirekābhyāṃ dharmotpattiḥ</l>
+            <l xml:id="AN-57"> </l>
+            <l xml:id="AN-58"> </l>
+            <l xml:id="AN-59"> </l>
+            <l xml:id="AN-60"> </l>
+            <l xml:id="AN-61"> </l>
+            <l xml:id="AN-62"> </l>
+            <l xml:id="AN-63"> </l>
+            <l xml:id="AN-64"> </l>
+            <l xml:id="AN-65"> </l>
+            <l xml:id="AN-66"> </l>
+            <l xml:id="AN-67"> </l>
+            <l xml:id="AN-68"> </l>
+            <l xml:id="AN-69"> </l>
          </p>
       </body>
    </text>
